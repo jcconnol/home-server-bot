@@ -1,0 +1,14 @@
+arecord --device=plughw:2,0 --duration=10 test.wav
+aplay test.wav 
+
+
+
+
+database connecting
+
+#create new table
+	psql
+	create database test;
+
+#connect to new table to run commands
+	psql test

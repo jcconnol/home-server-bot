@@ -1,0 +1,10 @@
+keys.py
+__pycache__/*
+__pycache__
+Pictures/Archive/*
+Pictures/Known/*
+
+*.jpg
+*.jpeg
+*.png
+*.wav
